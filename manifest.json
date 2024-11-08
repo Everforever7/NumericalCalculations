@@ -1,0 +1,12 @@
+{
+    "display_name": "NumericalCalculations",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Everforever7",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Everforever7/NumericalCalculations",
+    "auto_update": true
+}
